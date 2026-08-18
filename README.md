@@ -15,7 +15,7 @@
 
 </div>
 
-> system_profile
+About Me
 
 name: Nguyễn Quốc Bảo
 role: Cloud Engineering × AI Engineering
@@ -39,7 +39,7 @@ DESIGN  ──▶  SECURE  ──▶  BUILD  ──▶  OBSERVE  ──▶  IMPR
 
 📚 Strengthening production Cloud and AI Engineering practices
 
-> focus_areas
+Focus Areas
 
 <table>
   <tr>
@@ -64,7 +64,7 @@ DESIGN  ──▶  SECURE  ──▶  BUILD  ──▶  OBSERVE  ──▶  IMPR
   </tr>
 </table>
 
-> featured_work
+Featured Work
 
 🔎 DevSeek — RAG-Powered Developer Knowledge Base
 
@@ -94,7 +94,7 @@ Contributed to hands-on Agentic AI workshop delivery and helped builders configu
 
 Built a secure authentication and runtime configuration flow using Amazon Cognito, API Gateway, Lambda, Systems Manager Parameter Store, and Secrets Manager—demonstrating JWT-based access and separation between application configuration and sensitive credentials.
 
-> technology_matrix
+Tech Stack
 
 <div align="center">
 
@@ -110,7 +110,7 @@ Amazon Bedrock · AgentCore · RAG · Qdrant · Sentence Transformers · REST AP
 
 </div>
 
-> current_roadmap
+Currently Learning
 
 flowchart LR
     A[Cloud Architecture] --> B[Platform Reliability]
@@ -125,7 +125,7 @@ Agentic AI systems with memory, tools, gateways, and orchestration
 
 MLOps and deployment patterns for AI services
 
-> github_telemetry
+GitHub Activity
 
 <div align="center">
 
