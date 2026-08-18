@@ -1,94 +1,121 @@
 <div align="center">
 
-Hi, I'm Nguyễn Quốc Bảo 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,45:0f172a,100:0891b2&text=NGUYEN%20QUOC%20BAO&fontColor=e0f2fe&fontSize=46&fontAlignY=38&desc=CLOUD%20ENGINEERING%20%C2%B7%20AI%20ENGINEERING&descAlignY=58&descSize=18&animation=fadeIn&stroke=22d3ee&strokeWidth=1" alt="Nguyen Quoc Bao — Cloud Engineering and AI Engineering" />
 
-Cloud Engineering · AI Engineering
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1100&color=22D3EE&center=true&vCenter=true&width=700&height=55&lines=Building+secure+and+scalable+cloud+systems;Engineering+grounded+GenAI+applications;Turning+ideas+into+production-minded+solutions" alt="Typing animation" />
+</a>
 
-Building secure, scalable cloud systems and grounded AI applications.
+
+
+
 
 
 
 
 </div>
 
-About Me
+> system_profile
 
-I am a Software Engineering student at FPT University with a backend development background, now focusing on Cloud Engineering and AI Engineering.
+name: Nguyễn Quốc Bảo
+role: Cloud Engineering × AI Engineering
+foundation: Backend Software Engineering
+location: Ho Chi Minh City, Vietnam
+mission: Build reliable cloud systems and useful AI products
 
-I enjoy understanding how systems are designed, secured, deployed, and operated—from AWS serverless architectures and identity management to Retrieval-Augmented Generation, vector search, and agentic AI workflows. My goal is to turn technical concepts into practical, production-minded systems through hands-on projects.
+I am a Software Engineering student at FPT University with a backend development background, now focused on the intersection of cloud infrastructure and applied AI.
 
-☁️ Building with AWS serverless, security, identity, and managed services
+I enjoy understanding how systems are designed, secured, deployed, and operated—from AWS serverless architectures and identity management to Retrieval-Augmented Generation, vector search, and agentic workflows. I turn technical concepts into practical systems through hands-on engineering.
 
-🤖 Developing grounded GenAI applications with RAG, evaluation, and tool calling
+DESIGN  ──▶  SECURE  ──▶  BUILD  ──▶  OBSERVE  ──▶  IMPROVE
 
-🧩 Interested in system design, reliability, observability, and secure architecture
+☁️ Building with AWS serverless, identity, security, and managed services
 
-🐍 Working primarily with Python for AI services and C#/.NET for backend systems
+🤖 Developing grounded GenAI systems with RAG, evaluation, and tool calling
 
-📚 Currently strengthening my AWS architecture and applied AI engineering skills
+🧩 Exploring system design, reliability, observability, and secure architecture
 
-Focus Areas
+🐍 Using Python for AI services and C#/.NET for backend systems
 
-☁️ Cloud Engineering
+📚 Strengthening production Cloud and AI Engineering practices
 
-🤖 AI Engineering
+> focus_areas
 
-AWS architecture and Well-Architected design
+<table>
+  <tr>
+    <th width="50%">☁️ Cloud Engineering</th>
+    <th width="50%">🤖 AI Engineering</th>
+  </tr>
+  <tr>
+    <td>
+      ◈ AWS architecture & Well-Architected design<br/>
+      ◈ API Gateway, Lambda & event-driven systems<br/>
+      ◈ IAM, Cognito, KMS, SSM & Secrets Manager<br/>
+      ◈ Containers, CI/CD & deployment automation<br/>
+      ◈ Reliability, observability, security & cost
+    </td>
+    <td>
+      ◈ Retrieval-Augmented Generation<br/>
+      ◈ Embeddings, vector search & reranking<br/>
+      ◈ LLM APIs, structured output & guardrails<br/>
+      ◈ Evaluation, grounding & citation validation<br/>
+      ◈ Tool calling, memory & agentic workflows
+    </td>
+  </tr>
+</table>
 
-Retrieval-Augmented Generation
-
-Serverless systems with API Gateway and Lambda
-
-Embeddings, vector search, and reranking
-
-IAM, Cognito, KMS, SSM, and Secrets Manager
-
-LLM APIs and structured output
-
-Containers, CI/CD, and deployment automation
-
-Evaluation, grounding, and hallucination control
-
-Monitoring, reliability, security, and cost awareness
-
-Tool calling and agentic workflows
-
-Featured Work
+> featured_work
 
 🔎 DevSeek — RAG-Powered Developer Knowledge Base
 
-A developer documentation assistant that replaces keyword-only search with semantic retrieval. Built a complete RAG pipeline using FastAPI, Qdrant, Sentence Transformers, and an OpenAI-compatible LLM to turn Markdown, TXT, and PDF documentation into grounded, queryable answers.
 
-Key engineering work includes traceable source citations, deterministic citation validation, confidence-gated fallback behavior, and an evaluation harness for measuring retrieval quality.
+
+
+
+
+A developer documentation assistant that replaces keyword-only search with semantic retrieval. Built an end-to-end RAG pipeline using FastAPI, Qdrant, Sentence Transformers, and an OpenAI-compatible LLM to turn Markdown, TXT, and PDF documentation into grounded, queryable answers.
+
+Engineering highlights: traceable source citations · deterministic citation validation · confidence-gated fallback · retrieval evaluation harness
 
 🧠 Amazon Bedrock AgentCore Workshop
 
-Contributed to hands-on Agentic AI workshop delivery and helped builders configure environments, deploy agents, and troubleshoot technical issues. Explored AgentCore Runtime, episodic and semantic memory, Gateway, tool integration, Code Interpreter, and supervisor/collaborative orchestration with the Strands SDK.
+
+
+
+
+Contributed to hands-on Agentic AI workshop delivery and helped builders configure environments, deploy agents, and troubleshoot technical issues across AgentCore Runtime, episodic and semantic memory, Gateway, Code Interpreter, and supervisor/collaborative orchestration with the Strands SDK.
 
 🔐 Secure AWS Serverless Integration Lab
 
-Built a hands-on authentication and configuration flow using Amazon Cognito, API Gateway, Lambda, Systems Manager Parameter Store, and Secrets Manager. The lab demonstrates JWT-based API access, secure runtime configuration, and separation between application settings and sensitive credentials.
-
-Tech Stack
-
-Cloud & DevOps
 
 
 
 
 
+Built a secure authentication and runtime configuration flow using Amazon Cognito, API Gateway, Lambda, Systems Manager Parameter Store, and Secrets Manager—demonstrating JWT-based access and separation between application configuration and sensitive credentials.
+
+> technology_matrix
+
+<div align="center">
+
+Cloud · DevOps · Infrastructure
 
 
-AI & Backend
+
+AI · Backend · Data
 
 
 
+Amazon Bedrock · AgentCore · RAG · Qdrant · Sentence Transformers · REST APIs
 
+</div>
 
+> current_roadmap
 
-
-
-Currently Learning
+flowchart LR
+    A[Cloud Architecture] --> B[Platform Reliability]
+    B --> C[Production AI]
+    C --> D[Agentic Systems]
 
 Designing secure, scalable, and cost-aware AWS architectures
 
@@ -98,12 +125,24 @@ Agentic AI systems with memory, tools, gateways, and orchestration
 
 MLOps and deployment patterns for AI services
 
-GitHub Activity
+> github_telemetry
 
 <div align="center">
 
-<img height="165" src="https://ghstats.dev/api/card?username=NguyenQuocBaoILY" alt="Nguyễn Quốc Bảo's GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenQuocBaoILY&layout=compact&theme=transparent&hide_border=true" alt="Most used languages" />
+<a href="https://github.com/NguyenQuocBaoILY">
+  <img height="190" src="https://ghstats.dev/api/card?username=NguyenQuocBaoILY&theme=tokyonight&hide_border=true&show_icons=true&show_ring=true" alt="Nguyễn Quốc Bảo's GitHub statistics" />
+</a>
+<a href="https://github.com/NguyenQuocBaoILY?tab=repositories">
+  <img height="190" src="https://ghstats.dev/api/langs?username=NguyenQuocBaoILY&theme=tokyonight&layout=compact&max_langs=8&hide_border=true" alt="Most used languages" />
+</a>
+
+<br/>
+
+
+
+
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=NguyenQuocBaoILY&bg_color=0d1117&color=38bdf8&line=22d3ee&point=ffffff&area=true&area_color=0891b2&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution activity graph" />
 
 </div>
 
@@ -111,6 +150,8 @@ GitHub Activity
 
 Let's build reliable cloud systems and useful AI products.
 
-Explore my repositories
+
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:020617,45:0f172a,100:0891b2&section=footer" alt="Footer" />
 
 </div>
